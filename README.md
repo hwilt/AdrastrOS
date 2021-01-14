@@ -2,6 +2,9 @@
 
 Simple x86 OS that I am working on during my free time
 
+https://raw.githubusercontent.com/hwilt/AdrastrOS/master/bootloading.png
+
+
 ### Goals:
 - [ ] Memory Management
 - [ ] Program Management
