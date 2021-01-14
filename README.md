@@ -2,7 +2,7 @@
 
 Simple x86 OS that I am working on during my free time
 
-![Image of AdrastrOS](https://github.com/hwilt/AdrastrOS/blob/master/bootloading.png)
+![Image of AdrastrOS](https://github.com/hwilt/AdrastrOS/blob/master/Pictures/bootloading.png)
 
 
 ### Goals:
