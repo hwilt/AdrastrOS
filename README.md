@@ -15,7 +15,7 @@ Simple x86 OS that I am working on during my free time
 - [ ] Graphical User Interface (GUI)
 - [ ] Graphical Shell
 - [ ] Linear Block Addressing (LBA)
-- [ ] Bootloader (From the previous tutorial)
+- [ ] Bootloader
 
 
 ## References
