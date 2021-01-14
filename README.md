@@ -3,19 +3,19 @@
 Simple x86 OS that I am working on during my free time
 
 ### Goals:
-- [] Memory Management
-- [] Program Management
-- [] Multitasking
-- [] Memory Protection
-- [] Fixed Base Address
-- [] Multiuser
-- [] Kernel
-- [] File System
-- [] Command Shell
-- [] Graphical User Interface (GUI)
-- [] Graphical Shell
-- [] Linear Block Addressing (LBA)
-- [] Bootloader (From the previous tutorial)
+- [ ] Memory Management
+- [ ] Program Management
+- [ ] Multitasking
+- [ ] Memory Protection
+- [ ] Fixed Base Address
+- [ ] Multiuser
+- [ ] Kernel
+- [ ] File System
+- [ ] Command Shell
+- [ ] Graphical User Interface (GUI)
+- [ ] Graphical Shell
+- [ ] Linear Block Addressing (LBA)
+- [ ] Bootloader (From the previous tutorial)
 
 
 ## References
